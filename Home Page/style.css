@@ -1,0 +1,630 @@
+body {
+    background-color: white;  
+    overflow-x: hidden;
+    overflow: hidden;
+}
+
+.column-one {
+    border-left: 1px solid #d5d3d3;
+    opacity: 20%;
+    height: 710px;
+    position: relative;
+    bottom: 12px;
+    left: 305px;
+  }
+
+.twitter-circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    left: 45px;
+    bottom: 716px;
+    /* -webkit-filter: brightness(100%); */
+}
+
+.twitter-circle:hover {
+    -webkit-filter: brightness(100%);
+    background-color: #d7effaf9;
+}
+
+.twitter-icon {
+    width: 33px;
+    position: relative;
+    left: 8px;
+    top: 12px;
+}
+
+.link-container {
+    height: 466px;
+    width: 208px;
+    background-color: white;
+    position: relative;
+    left: 45px;
+    bottom: 725px;
+}
+
+.round-link {
+    width: 135px;
+    height: 42px;
+    border-radius: 40px;
+    background-color: white;
+    position: relative;
+    padding: 3px;
+}
+
+.homeicon {
+    width: 110px;
+    position: relative;
+    left: 5px;
+    top: 6px;
+    border-radius: 30%;
+}
+
+.round-link-two {
+    width: 130px;
+    height: 42px;
+    border-radius: 40px;
+    background-color: white;
+    position: relative;
+    bottom: 15px;
+    padding: 3px;
+}
+.exploreicon {
+    width: 114px;
+    position: relative;
+    left: 6px;
+    top: 3.5px;
+
+}
+.round-link-three {
+    width: 180px;
+    height: 42px;
+    border-radius: 40px;
+    background-color: white;
+    position: relative;
+    top: -25px;
+    padding: 3px;
+}
+.notifyicon {
+    width: 165px;
+    position: relative;
+    left: 4px;
+    top: 2px;
+
+}
+.round-link-four {
+    width: 150px;
+    height: 42px;
+    border-radius: 40px;
+    background-color: white;
+    position: relative;
+    top: -40px;
+    padding: 3px;
+}
+.messagesicon {
+    width: 138px;
+    position: relative;
+    left: 6px;
+    top: 4.5px;
+
+}
+.round-link-five {
+    width: 160px;
+    height: 42px;
+    border-radius: 40px;
+    background-color: white;
+    position: relative;
+    top: -55px;
+    padding: 3px;
+}
+.bookmarkicon {
+    width: 151px;
+    position: relative;
+    left: 4.5px;
+    top: 5px;
+
+}
+.round-link-six {
+    width: 130px;
+    height: 42px;
+    border-radius: 40px;
+    background-color: white;
+    position: relative;
+    top: -65px;
+    padding: 3px;
+}
+.listsicon {
+    width: 89px;
+    position: relative;
+    left: 7px;
+    top: -0.1px;
+
+}
+.round-link-seven {
+    width: 130px;
+    height: 42px;
+    border-radius: 40px;
+    background-color: white;
+    position: relative;
+    top: -79px;
+    padding: 3px;
+}
+.profileicon {
+    width: 103px;
+    position: relative;
+    left: 6px;
+    top: 3px;
+   
+}
+.round-link-eight {
+    width: 130px;
+    height: 42px;
+    border-radius: 40px;
+    background-color: white;
+    position: relative;
+    top: -92px;
+    padding: 2px;
+}
+
+.round-link-nine {
+    width: 220px;
+    height: 42px;
+    border-radius: 40px;
+    background-color: white;
+    position: relative;
+    top: -750px;
+    left: 50px;
+    padding: 9px;
+    cursor: pointer;
+}
+.profiledp {
+    width: 230px;
+    height: 46px;
+    padding: 9px;
+    position: relative;
+    left: -15px;
+    bottom: 10px;
+    border-radius: 40px;
+    cursor: pointer;
+}
+.round-link-nine:hover {
+    -webkit-filter: brightness(90%);
+    cursor: pointer;
+
+}
+
+.moreicon {
+    width: 96px;
+    position: relative;
+    left: 5px;
+    bottom: -1px;
+    border-radius: 20%;
+}
+
+.round-tweet {
+    width: 218px;
+    height: 45px;
+    border-radius: 40px;
+    background-color: #1D9BF0;
+    position: relative;
+    bottom: 798px;
+    left: 43px;
+    padding: 4px;
+    /* -webkit-filter: brightness(100%); */
+    cursor: pointer;
+}
+
+.round-tweet:hover {
+    -webkit-filter: brightness(90%);
+    cursor: pointer;
+
+}
+
+.link-tweet {
+    cursor: pointer;
+    color: white;
+    position: relative;
+    bottom: 855px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    right: 518px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.link-tweet:hover {
+    -webkit-filter: brightness(95%);
+}
+
+.round-link:hover{
+    -webkit-filter: brightness(90%);
+    cursor: pointer;
+} 
+
+.round-link-two:hover{
+    -webkit-filter: brightness(90%);
+    cursor: pointer;
+} 
+
+.round-link-three:hover{
+    -webkit-filter: brightness(90%);
+    cursor: pointer;
+} 
+
+.round-link-four:hover{
+    -webkit-filter: brightness(90%);
+    cursor: pointer;
+} 
+
+.round-link-five:hover{
+    -webkit-filter: brightness(90%);
+    cursor: pointer;
+} 
+
+.round-link-six:hover{
+    -webkit-filter: brightness(90%);
+    cursor: pointer;
+}
+ 
+.round-link-seven:hover{
+    -webkit-filter: brightness(90%);
+    cursor: pointer;
+} 
+
+.round-link-eight:hover{
+    -webkit-filter: brightness(90%);
+    cursor: pointer;
+}
+
+
+
+
+.column-two {
+    border-left: 1px solid #d5d3d3;
+    opacity: 20%;
+    height: 750px;
+    position: relative;
+    bottom: 1490px;
+    left: 905px;
+  }
+
+.profilepagedp {
+    position: relative;
+    left: 306px;
+    top: -2200px;
+    width: 599px;
+    cursor: pointer;
+}
+
+.name {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 322px;
+    top: -2212px;
+}
+.subname {
+    color: #7c7c7c;
+    font-size: 14px;
+    font-weight: 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 322px;
+    top: -2230px;
+}
+.about {
+    color: black;
+    font-size: 14.5px;
+    font-weight: 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 322px;
+    top: -2230px; 
+}
+
+.calendar {
+    position: relative;
+    left: 309px;
+    top: -2265px; 
+    width: 180px;
+    cursor: text;
+}
+.link {
+    display: inline-block;
+    color: black;
+    position: relative;
+    left: 140px;
+    top: -2240px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+.link:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.linktwo {
+    display: inline-block;
+    color: black;
+    position: relative;
+    left: 150px;
+    top: -2240px; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+
+.linktwo:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.panelmenu {
+    width: 140px;
+    position: relative;
+    left: -45px;
+    top: -2165px; 
+}
+
+.panelmenu:hover {
+    -webkit-filter: brightness(90%);
+}
+
+.panelmenutwo {
+    width: 195px;
+    position: relative;
+    left: -45px;
+    top: -2165px; 
+}
+
+.panelmenutwo:hover {
+    -webkit-filter: brightness(90%);
+}
+
+.panelmenuthree {
+    width: 105px;
+    position: relative;
+    left: -45px;
+    top: -2165px; 
+}
+
+.panelmenuthree:hover {
+    -webkit-filter: brightness(90%);
+}
+
+.panelmenufour {
+    width: 125px;
+    position: relative;
+    left: -45px;
+    top: -2165px; 
+}
+
+.panelmenufour:hover {
+    -webkit-filter: brightness(90%);
+}
+.happen {
+    width: 410px;
+    position: relative;
+    left: 472px;
+    bottom: 3345px;
+}
+.search {
+    position: relative;
+    left: 905px;
+    bottom: 3864px;
+    width: 427px;
+    cursor: text;
+}
+.head {
+    width: 610px;
+    position: relative;
+    left: 300px;
+    bottom: 2454px;
+}
+/* .foryou {
+    width: 100px;
+    position: relative;
+    left: 300px;
+    bottom: 2654px;
+}
+.foryou:hover {
+    -webkit-filter: brightness(90%);
+} */
+.article {
+    width: 610px;
+    position: relative;
+    left: -316px;
+    bottom: 1980px;
+    cursor: pointer;
+}
+.images {
+    position: relative;
+    left: 500px;
+    bottom: 3520px;
+    width: 365px;
+    cursor: pointer;
+}
+  .hovered {
+    position: relative;
+    top: -75px;
+  }
+.mightlike {
+    position: relative;
+    left: 140px;
+    bottom: 3170px;
+    width: 355px;
+}
+  .setting {
+    position: relative;
+    bottom: 2075px;
+    left: 305px;
+    width: 392px;
+  }
+
+  .youracc {
+    position: relative;
+    bottom: 2023px;
+    left: -92px;
+    width: 392px;
+    cursor: pointer;
+ 
+  }
+
+  .security {
+    position: relative;
+    bottom: 1980px;
+    left: -487px;
+    width: 392px;
+    cursor: pointer;
+    background: rgb(217, 215, 215);
+  }
+
+  .privacy {
+    position: relative;
+    bottom: 1973px;
+    left: 304px;
+    width: 390px;
+    cursor: pointer;
+    background: rgb(217, 215, 215);
+  }
+
+  .noti {
+    position: relative;
+    bottom: 1926px;
+    left: -88px;
+    width: 390px;
+    cursor: pointer;
+    background: rgb(217, 215, 215);
+  }
+
+  .access {
+    position: relative;
+    bottom: 1880px;
+    left: -483px;
+    width: 390px;
+    cursor: pointer;
+    background: rgb(217, 215, 215);
+  }
+
+  .additional {
+    position: relative;
+    bottom: 1873px;
+    left: 305px;
+    width: 390px;
+    cursor: pointer;
+    background: rgb(217, 215, 215);
+  }
+.additional:hover {
+    -webkit-filter: brightness(95%);
+}
+.access:hover {
+    -webkit-filter: brightness(95%);
+}
+.noti:hover {
+    -webkit-filter: brightness(95%);
+}
+.privacy:hover {
+    -webkit-filter: brightness(95%);
+}
+.security:hover {
+    -webkit-filter: brightness(95%);
+}
+
+
+
+.column-three {
+    border-left: 1px solid #d5d3d3;
+    opacity: 20%;
+    height: 710px;
+    position: relative;
+    bottom: 2390px;
+    left: 1295px;
+  }
+
+  .acc {
+    position: relative;
+    bottom: 2985px;
+    left: 697px;
+    width: 156px;
+    cursor:text;
+  }
+
+  .info {
+    position: relative;
+    bottom: 2930px;
+    left: 545px;
+    width: 590px;
+    cursor:text;
+  }
+
+  .accinfo {
+    position: relative;
+    bottom: 2923px;
+    left: 697px;
+    width: 600px;
+    cursor: pointer;
+    background: rgb(217, 215, 215);
+  }
+  .accinfo:hover {
+    -webkit-filter: brightness(95%);
+}
+
+.pass {
+    position: relative;
+    bottom: 2850px;
+    left: 92px;
+    width: 600px;
+    cursor: pointer;
+    background: rgb(217, 215, 215);
+  }
+  .pass:hover {
+    -webkit-filter: brightness(95%);
+}
+
+.download {
+    position: relative;
+    bottom: 2840px;
+    left: 696px;
+    width: 600px;
+    cursor: pointer;
+    background: rgb(217, 215, 215);
+  }
+  .download:hover {
+    -webkit-filter: brightness(95%);
+}
+
+.tweetdeck {
+    position: relative;
+    bottom: 2775px;
+    left: 90px;
+    width: 605px;
+    cursor: pointer;
+    background: rgb(217, 215, 215);
+  }
+  .tweetdeck:hover {
+    -webkit-filter: brightness(95%);
+}
+
+.deactivate {
+    position: relative;
+    bottom: 2770px;
+    left: 694px;
+    width: 605px;
+    cursor: pointer;
+    background: rgb(217, 215, 215);
+  }
+  .deactivate:hover {
+    -webkit-filter: brightness(95%);
+}
+
+.mess {
+    position: relative;
+    top: -3215px;
+    left: 60px;
+    width: 417px;
+    cursor: pointer;
+
+  }
